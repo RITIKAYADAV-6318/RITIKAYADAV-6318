@@ -1,16 +1,21 @@
-## Hi there 👋
+```md
+# Hello, Internet 👋
 
-<!--
-**RITIKAYADAV-6318/RITIKAYADAV-6318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am # Ritika Yadav
+I don't code just to complete projects.
 
-Here are some ideas to get you started:
+I build because I'm curious.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curious about how AI agents reason.
+Curious about how products scale.
+Curious about how good software is designed.
+Curious about how ideas become businesses.
+
+This GitHub is my digital workshop—a place where I learn in public, experiment without fear, and build things that interest me.
+
+If you're here, welcome.
+Feel free to explore, learn, or collaborate.
+
+🚀 Always building.
+📚 Always learning.
+```

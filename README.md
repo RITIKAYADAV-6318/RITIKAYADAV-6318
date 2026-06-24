@@ -83,7 +83,7 @@ Machine Learning
 Android Applications
 DSA & Competitive Programming
 Full Stack Development
-Networking and Building worth it
+Networking and Building solutions
 ```
 
 ---

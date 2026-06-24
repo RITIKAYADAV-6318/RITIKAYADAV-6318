@@ -64,16 +64,6 @@ Building impactful solutions for web and world.
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RITIKAYADAV-6318&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
@@ -115,8 +105,3 @@ Networking and Building worth it
 ---
 
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RITIKAYADAV-6318&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>

@@ -74,7 +74,6 @@ Building impactful solutions for web and world.
 # Current Focus
 
 ```text
-Flutter Development
 Artificial Intelligence
 Machine Learning
 Android Applications

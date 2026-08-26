@@ -14,7 +14,7 @@ Building impactful solutions for web and world.
 
 > Always ready for building, contributing, solving challenging problems, and collaborating on innovative opportunities.
 
-- Building and learning real-world AI & Flutter applications
+- Building and learning real-world AI 
 - Exploring Machine Learning, AI Agents & Full Stack Development
 - Participating in Hackathons, Open Source & Innovation Challenges
 

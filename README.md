@@ -64,10 +64,8 @@ Building impactful solutions for web and world.
 # Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RITIKAYADAV-6318&theme=tokyo-night&hide_border=true"/>
-
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITIKAYADAV-6318&theme=tokyo-night&hide_border=true" alt="Ritika's GitHub Activity Graph"/>
+</p> 
 
 ---
 
